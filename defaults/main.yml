@@ -1,0 +1,4 @@
+---
+# defaults file for ansible-apache_mod_rpaf_role
+apache2_mod_rpaf_ips:
+  - 127.0.0.1

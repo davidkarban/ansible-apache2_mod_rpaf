@@ -1,0 +1,2 @@
+__apache_mod_rpaf_pkgs:
+  - "libapache2-mod-rpaf"
